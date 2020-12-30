@@ -1,0 +1,10 @@
+flask
+scipy
+gunicorn
+sentencepiece
+shapely
+pyclipper
+paddlepaddle==2.0.0rc1
+paddlehub==2.0.0b0
+keras==2.2.5
+tensorflow==1.14.0
